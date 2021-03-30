@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+    text-decoration: darkorchid;
+    text-emphasis:em;
+}
+p{
+    line-height:normal ;
+    font-family: monospace;
+}
+ul{
+    line-height: 50px;
+    color: chartreuse;
+}
+.animals{
+    
+}
