@@ -14,8 +14,11 @@ p{
 }
 ul{
     line-height: 50px;
-    color: chartreuse;
+    color: crimson;
 }
 .animals{
-    
+ background-color: deeppink;
+}
+body{
+    background-color: chartreuse;
 }
